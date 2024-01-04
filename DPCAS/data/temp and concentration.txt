@@ -1,5 +1,0 @@
-name temp concentration
-open 37 100
-short 37 100
-water 37 100
-Ethanol 37 100
